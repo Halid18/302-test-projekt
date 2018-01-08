@@ -7,7 +7,7 @@
 |David   |        |
 |Dominik |        |
 |Erik    |        |
-|Halid   |        |
+|Halid   |    X   |
 |Hezekiah|        |
 |James   |        |
 |Jonas   |        |
